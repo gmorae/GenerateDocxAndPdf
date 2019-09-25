@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\GenerateDocxAndPdf\bin\Debug\netcoreapp2.2\GenerateDocxAndPdf.deps.json
+C:\Users\fic\Desktop\GenerateDocxAndPdf\bin\Debug\netcoreapp2.2\GenerateDocxAndPdf.runtimeconfig.json
+C:\Users\fic\Desktop\GenerateDocxAndPdf\bin\Debug\netcoreapp2.2\GenerateDocxAndPdf.runtimeconfig.dev.json
+C:\Users\fic\Desktop\GenerateDocxAndPdf\bin\Debug\netcoreapp2.2\GenerateDocxAndPdf.dll
+C:\Users\fic\Desktop\GenerateDocxAndPdf\bin\Debug\netcoreapp2.2\GenerateDocxAndPdf.pdb
+C:\Users\fic\Desktop\GenerateDocxAndPdf\obj\Debug\netcoreapp2.2\GenerateDocxAndPdf.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\GenerateDocxAndPdf\obj\Debug\netcoreapp2.2\GenerateDocxAndPdf.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\GenerateDocxAndPdf\obj\Debug\netcoreapp2.2\GenerateDocxAndPdf.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\GenerateDocxAndPdf\obj\Debug\netcoreapp2.2\GenerateDocxAndPdf.AssemblyInfo.cs
+C:\Users\fic\Desktop\GenerateDocxAndPdf\obj\Debug\netcoreapp2.2\GenerateDocxAndPdf.dll
+C:\Users\fic\Desktop\GenerateDocxAndPdf\obj\Debug\netcoreapp2.2\GenerateDocxAndPdf.pdb
